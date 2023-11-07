@@ -4,6 +4,7 @@
 - Phone: +380-730-84-22-61
 - Email: nik.flyme.criachko@gmail.com
 - Telegram: @saiba_joichiro
+- Discord: procrastination_lover
 
 ## About me:
 I am beginner developer, looking for job opportunities. I am good teamplayer (specifically in Dota2), motivated to learn new things and collaborate with other people to create awesome projects together.
@@ -21,6 +22,3 @@ function multiply(a, b){
   a * b
 }
 ```
-
-
-
