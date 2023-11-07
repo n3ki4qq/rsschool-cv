@@ -22,3 +22,8 @@ function multiply(a, b){
   a * b
 }
 ```
+
+## Work Experience
+I have done a couple of pet projects.
+- [CV Markdown](https://github.com/saiba-joichiro/rsschool-cv)
+- [SuperMegaProject](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
