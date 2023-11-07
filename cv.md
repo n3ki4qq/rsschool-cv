@@ -14,6 +14,13 @@ My main goal is to become proficient in software development and help other peop
 - JS
 - NodeJS
 
+## Code examples
+Codewars multiply task:
+```javascript
+function multiply(a, b){
+  a * b
+}
+```
 
 
 
