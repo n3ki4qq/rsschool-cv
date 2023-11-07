@@ -27,3 +27,10 @@ function multiply(a, b){
 I have done a couple of pet projects.
 - [CV Markdown](https://github.com/saiba-joichiro/rsschool-cv)
 - [SuperMegaProject](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+## Education
+**National Technical University of Ukraine
+“Igor Sikorsky Kyiv Polytechnic Institute”**<br>
+_Faculty of Informatics and Computer Engineering_<br>
+Years: 2019-2023<br>
+Specialization: **Cybernetics**<br>
